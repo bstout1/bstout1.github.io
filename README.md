@@ -19,7 +19,9 @@ These are recent events I've traveled to and participated in the community.
 - **ZK Proof Policy @ DC** Washington, DC, USA. November 2023.
 - **Columbia Cryptoeconomics Conference** New York, NY December 2023.
 <br>
+
 ## Education
+The following are my academic degrees.
 - **Phd. Mathematics.** City University of New York Graduate Center. May 2013.
 - **M.A. Mathematics.** City University of New York Graduate Center. May 2011.
 - **B.S. Marine Transportation.** U.S. Merchant Marine Academy. June 2008.
