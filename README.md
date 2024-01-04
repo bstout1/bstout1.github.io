@@ -12,12 +12,12 @@ _Researcher, builder, math enthusiast based in US_ <br>
 
 ## Recent Events
 These are recent events I've traveled to and participated in the community.
-- **ZK Summit 9** Lisbon, Portugal. April 2023.
-- **ZK Hack Lisbon** Lisbon, Portugal. April 2023.
-- **zkWeek in the Pit** Chicago, Illinois, USA. May 2023.
-- **Tokenomics 2023** New York, NY. October 2023.
-- **ZK Proof Policy @ DC** Washington, DC, USA. November 2023.
-- **Columbia Cryptoeconomics Conference** New York, NY. December 2023.
+- **ZK Summit 9.** Lisbon, Portugal. April 2023.
+- **ZK Hack Lisbon.** Lisbon, Portugal. April 2023.
+- **zkWeek in the Pit.** Chicago, Illinois, USA. May 2023.
+- **Tokenomics 2023.** New York, NY. October 2023.
+- **ZK Proof Policy @ DC.** Washington, DC, USA. November 2023.
+- **Columbia Cryptoeconomics Conference.** New York, NY. December 2023.
 <br>
 
 ## Education
@@ -35,7 +35,7 @@ These are things I've worked on in the past.
 - **PhD Student, Mathematics.** City University of New York Graduate Center.
 
 ## Publications
-My published research in mathatmics.
+My published research in mathematics.
 - Miasnikov, N., Stout, B., and Williams, P. Automorphism loci for the moduli space of rational maps. Acta Arithmetica., 180(3): 267–296, 2017.
 - Petsche, C., Stout, B. On quadratic rational maps with prescribed good reduction. Proceedings of the American Mathematical Society. 143 (2015), 1145-1158.
 - Petsche, C., Stout, B. Global minimal models for endomorphisms of projective space. Journal de Theorie des Nombres de Bordeaux, Vol. 26 no. 3 (2014), 813-823.
