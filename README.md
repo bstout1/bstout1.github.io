@@ -18,7 +18,6 @@ These are recent events I've traveled to and participated in the community.
 - **Tokenomics 2023.** New York, NY. October 2023.
 - **ZK Proof Policy @ DC.** Washington, DC, USA. November 2023.
 - **Columbia Cryptoeconomics Conference.** New York, NY. December 2023.
-<br>
 
 ## Education
 The following are my academic degrees.
