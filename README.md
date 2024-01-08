@@ -6,6 +6,10 @@ _Researcher, builder, math enthusiast based in US_ <br>
 
 ## Interests
 
+I love learning, exploring and building. My one word description is "curious". Right now I am working on privacy technologies, verifiable computing, and mathematically-enabling technologies. My current interests are number theory, zero knowledge cryptography, game theory, MEV, and Austrian economics.
+
+For the last five years I have worked as a corporate restructuring professional on bankruptcy trade claims. Corporate restructuring is a fascinating world of information, incentives, and markets. About the same time I started tinkering in Solidity. I'm particularly interested in cryptoeconomics and how zero knowledge technologies can be used to reduce MEV. About half of my free time I think about these concepts, work on understanding different protocols and commitment schemes. The other half of the time I think about large language models and prompt engineering. I'm particularly interested in how these can be used to augment knowledge driven-industries, like corporate restructuring. I'm working with tools like LangChain, LlamaIndex, webscraping, Pinecone.
+
 ## Things I'm Working On
 
 ## What I've Been Learning
