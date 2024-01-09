@@ -13,6 +13,9 @@ For the last five years I have worked as a corporate restructuring professional 
 ## Things I'm Working On
 
 ## What I've Been Learning
+- Zero knowledge cryptography. I've completed the Stanford Zero Knowledge Proof MOOC [here](https://zk-learning.org), the Encoe ZK Bootcamp., and the MIT ZK IAP [here](https://zkiap.com/). I'm working on learning Circom.
+- Solidity. I'm interested in MEV and how ZK cryptography can be used to reduce bad MEV. I completed the Encode Solidity Foundation and Eolidity Expert Bootcamps. I'm also interested in decentralized market building.
+- Generative AI applications. I'm building tools with LangChain and OpenAI to help creditors in restructuring. 
 
 ## Recent Events
 These are recent events I've traveled to and participated in the community.
