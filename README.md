@@ -11,6 +11,8 @@ I love learning, exploring and building. My one word description is "curious". R
 For the last five years I have worked as a corporate restructuring professional on bankruptcy trade claims. Corporate restructuring is a fascinating world of information, incentives, and markets. About the same time I started tinkering in Solidity. I'm particularly interested in cryptoeconomics and how zero knowledge technologies can be used to reduce MEV. About half of my free time I think about these concepts, work on understanding different protocols and commitment schemes. The other half of the time I think about large language models and prompt engineering. I'm particularly interested in how these can be used to augment knowledge driven-industries, like corporate restructuring. I'm working with tools like LangChain, LlamaIndex, webscraping, Pinecone.
 
 ## Things I'm Working On
+- [Ash Breeze](https://www.ashbreeze.co). I'm building generative AI tools using large language models, LangChain, and Pinecone to help provide more relevant data to creditors.
+- ZK/MPC/FHE/MEV. I am looking to help new companies in math-intensive industries. I can help with advisement, fractional CFO work, and networking. I'm also building a personal portfolio of small investments in this space.
 
 ## What I've Been Learning
 - Zero knowledge cryptography. I've completed the Stanford Zero Knowledge Proof MOOC [here](https://zk-learning.org), the Encoe ZK Bootcamp., and the MIT ZK IAP [here](https://zkiap.com/). I'm working on learning Circom.
